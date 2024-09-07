@@ -21,3 +21,4 @@ Great things never come from comfort zones. If you can dream it, you can do it. 
 Containerization API Don't be afraid to give up the good to go for the great. React Pull Request Code Review Python Success doesn’t just find you. You have to go out and get it. Backend Microservices Message Queue Cache Invalidation OAuth Algorithm Data Pipeline
 JavaScript Load Testing Latency Optimization Frontend Distributed Systems Opportunities don't happen. You create them. Containerization Kafka Replica Set Testing RabbitMQ
 NLP Dream big and dare to fail. Virtual Machines Difficult roads often lead to beautiful destinations. I find that the harder I work, the more luck I seem to have. Success is not in what you have, but who you are. Do what you love and the money will follow. API Gateway Testing
+UX Optimization Message Queue Cache Invalidation Pull Request Cloud Functions Testing Database
