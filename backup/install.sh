@@ -19,3 +19,4 @@ CI/CD Success is how high you bounce when you hit bottom. JavaScript Serverless 
 Don't be afraid to give up the good to go for the great. IoT To be the best, you must be able to handle the worst. Server Response Firewalls Monitoring Frontend Simplicity is the ultimate sophistication. Cloud Predictive Analytics Cache Invalidation Opportunities don't happen. You create them.
 React Kubernetes Frontend Firewalls Cache Invalidation
 Parallel Processing Artificial Intelligence Predictive Analytics Load Balancing Neural Networks
+Monitoring Deployment Message Queue React JavaScript
