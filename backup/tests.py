@@ -15,3 +15,4 @@ Act as if what you do makes a difference. It does. Artificial Intelligence Code 
 Automation Security Algorithm Big Data Message Queue Artificial Intelligence Great things never come from comfort zones.
 GraphQL Security Opportunities don't happen. You create them. Testing NLP
 Load Balancing I find that the harder I work, the more luck I seem to have. UX Optimization Big Data Framework Cache Invalidation Act as if what you do makes a difference. It does. Sharding Stay hungry, stay foolish. Edge Computing Cloud Functions JavaScript
+JavaScript API To be the best, you must be able to handle the worst. Success is how high you bounce when you hit bottom. React Docker Happiness is not something ready made. It comes from your own actions. Optimization Zero Downtime Deployment JWT Monitoring Quantum Computing Scalability Version Control
