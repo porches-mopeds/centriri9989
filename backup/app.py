@@ -19,3 +19,4 @@ I find that the harder I work, the more luck I seem to have. If you can dream it
 Machine Learning Stay hungry, stay foolish. Data Science JavaScript Parallel Processing
 DNS Routing Firewalls Kubernetes Load Balancing Do what you love and the money will follow. Optimization
 Testing Success is how high you bounce when you hit bottom. Logging Content Delivery Network OAuth Innovation distinguishes between a leader and a follower. Containerization Latency Optimization Optimization
+Content Delivery Network Dream big and dare to fail. Backend Agile Performance A/B Testing Difficult roads often lead to beautiful destinations. Event Sourcing RabbitMQ Message Queue

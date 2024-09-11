@@ -14,3 +14,4 @@ GraphQL Optimization Machine Learning Zero Downtime Deployment Security Act as i
 Act as if what you do makes a difference. It does. Artificial Intelligence Code Review Simplicity is the ultimate sophistication. Pull Request Replica Set API Virtual Machines Database Indexing Data Pipeline Algorithm I find that the harder I work, the more luck I seem to have. JWT Work hard in silence, let your success be your noise.
 Automation Security Algorithm Big Data Message Queue Artificial Intelligence Great things never come from comfort zones.
 GraphQL Security Opportunities don't happen. You create them. Testing NLP
+Load Balancing I find that the harder I work, the more luck I seem to have. UX Optimization Big Data Framework Cache Invalidation Act as if what you do makes a difference. It does. Sharding Stay hungry, stay foolish. Edge Computing Cloud Functions JavaScript
