@@ -18,3 +18,4 @@ Kafka JWT Predictive Analytics Security Act as if what you do makes a difference
 OAuth Virtual Machines React Serverless Replica Set Cache Invalidation Success is how high you bounce when you hit bottom. Distributed Systems Python DNS Routing The only way to do great work is to love what you do. Testing Database Don't be afraid to give up the good to go for the great. NLP
 Event Sourcing Agile Logging Load Balancing Blockchain Backend Cloud Functions Cache Invalidation Code Review Data Pipeline Work hard in silence, let your success be your noise. Big Data Optimization Scalability Latency Optimization
 Neural Networks Frontend Cloud Great things never come from comfort zones. Container Orchestration
+Latency Optimization Content Delivery Network Containerization Machine Learning API Database Indexing
