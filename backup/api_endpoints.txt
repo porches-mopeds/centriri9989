@@ -22,3 +22,4 @@ Opportunities don't happen. You create them. JavaScript Serverless Latency Optim
 Data Science Code Review Logging Multi-threading Version Control Database CI/CD NLP Machine Learning Pull Request Load Balancing Message Queue Kubernetes
 API Gateway Multi-threading Machine Learning Neural Networks Code Review Dream big and dare to fail. Algorithm Don't be afraid to give up the good to go for the great. RabbitMQ Logging UX Optimization
 CI/CD DNS Routing Testing Message Queue Big Data Deployment Latency Optimization Framework API Gateway The only way to do great work is to love what you do. Cloud Functions Load Testing
+GraphQL Algorithm Database Content Delivery Network Testing Work hard in silence, let your success be your noise. Firewalls Quantum Computing Blockchain I find that the harder I work, the more luck I seem to have. Event Sourcing Pull Request Machine Learning Success usually comes to those who are too busy to be looking for it.
