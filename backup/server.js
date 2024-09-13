@@ -32,3 +32,4 @@ Sharding Firewalls Big Data Do what you love and the money will follow. Zero Dow
 Algorithm Performance Scalability Framework Server Response CI/CD React Monitoring Data Pipeline Do what you love and the money will follow. Container Orchestration Kafka
 Act as if what you do makes a difference. It does. API Kubernetes Neural Networks UX Optimization Load Balancing Code Review Logging DevOps Event Sourcing The only way to do great work is to love what you do. RabbitMQ I find that the harder I work, the more luck I seem to have.
 Docker React Data Science Pull Request Performance Machine Learning Logging Backend Frontend Replica Set Deployment Cloud Opportunities don't happen. You create them. API Gateway
+CI/CD Framework Quantum Computing Pull Request Code Review Stay hungry, stay foolish. Predictive Analytics Scalability
