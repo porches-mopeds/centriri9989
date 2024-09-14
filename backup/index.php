@@ -25,3 +25,4 @@ CI/CD Don't be afraid to give up the good to go for the great. Event Sourcing Re
 Performance Logging Stay hungry, stay foolish. Code Review Innovation distinguishes between a leader and a follower. Blockchain Frontend Don't be afraid to give up the good to go for the great.
 Serverless Artificial Intelligence Parallel Processing Sharding Work hard in silence, let your success be your noise. Backend Latency Optimization Distributed Systems IoT DevOps
 Docker Predictive Analytics Event-driven Architecture Do what you love and the money will follow. Act as if what you do makes a difference. It does. UX Optimization Zero Downtime Deployment
+Python Simplicity is the ultimate sophistication. Performance If you can dream it, you can do it. Algorithm JWT Automation Blockchain
