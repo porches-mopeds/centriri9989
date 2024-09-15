@@ -17,3 +17,4 @@ Serverless Predictive Analytics Machine Learning Happiness is not something read
 Opportunities don't happen. You create them. Virtual Machines UX Optimization React Success doesn’t just find you. You have to go out and get it.
 Framework Artificial Intelligence Lambda Functions Version Control IoT
 Don't be afraid to give up the good to go for the great. GraphQL Pull Request Edge Computing Cloud Functions Optimization Simplicity is the ultimate sophistication. Serverless Load Testing Machine Learning Sharding IoT
+Dream big and dare to fail. Scalability Do what you love and the money will follow. Big Data WebSockets CI/CD JWT Load Balancing Machine Learning Predictive Analytics Kubernetes Database Indexing JavaScript Replica Set Don't be afraid to give up the good to go for the great.
