@@ -31,3 +31,4 @@ Success is how high you bounce when you hit bottom. Success is not in what you h
 Microservices API Gateway Cache Invalidation Sharding Deployment Predictive Analytics
 Pull Request Containerization Microservices Do what you love and the money will follow. Python
 Kafka Virtual Machines JavaScript API Gateway Frontend Innovation distinguishes between a leader and a follower. Lambda Functions Container Orchestration Machine Learning Load Balancing Neural Networks Performance Edge Computing
+Zero Downtime Deployment Content Delivery Network Great things never come from comfort zones. Firewalls Kafka Cache Invalidation

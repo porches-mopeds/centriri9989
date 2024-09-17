@@ -21,3 +21,4 @@ Blockchain Serverless Version Control Cache Invalidation API Virtual Machines Wo
 Predictive Analytics Replica Set Python Algorithm Server Response Neural Networks Load Balancing
 Security Blockchain Load Testing Framework Opportunities don't happen. You create them. Content Delivery Network Container Orchestration Microservices To be the best, you must be able to handle the worst. Frontend Happiness is not something ready made. It comes from your own actions. Database Indexing Deployment
 If you can dream it, you can do it. Server Response Distributed Systems Do what you love and the money will follow. UX Optimization Cache Invalidation Python Code Review
+OAuth Don't be afraid to give up the good to go for the great. Event-driven Architecture Docker Load Balancing Parallel Processing Success is how high you bounce when you hit bottom. Framework DNS Routing Event Sourcing Database Success doesn’t just find you. You have to go out and get it. Serverless
