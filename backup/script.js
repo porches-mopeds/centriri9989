@@ -18,3 +18,4 @@ Success is not in what you have, but who you are. Algorithm Code Review Security
 Python Parallel Processing Dream big and dare to fail. Artificial Intelligence Monitoring JavaScript Code Review Kafka Version Control Docker A/B Testing Multi-threading Cloud
 Artificial Intelligence Cloud Functions Simplicity is the ultimate sophistication. Predictive Analytics Deployment Database Indexing
 Neural Networks Success is not in what you have, but who you are. Work hard in silence, let your success be your noise. DNS Routing Sharding Containerization Edge Computing
+Database Indexing DNS Routing Load Testing Latency Optimization GraphQL Content Delivery Network Neural Networks Distributed Systems CI/CD Monitoring Security Artificial Intelligence Deployment
