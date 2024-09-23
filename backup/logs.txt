@@ -30,3 +30,4 @@ Serverless Great things never come from comfort zones. Security Happiness is not
 Success is how high you bounce when you hit bottom. Success is not in what you have, but who you are. Version Control Backend Event-driven Architecture JavaScript Microservices OAuth Quantum Computing Simplicity is the ultimate sophistication. RabbitMQ Kafka Dream big and dare to fail. Edge Computing Containerization
 Microservices API Gateway Cache Invalidation Sharding Deployment Predictive Analytics
 Pull Request Containerization Microservices Do what you love and the money will follow. Python
+Kafka Virtual Machines JavaScript API Gateway Frontend Innovation distinguishes between a leader and a follower. Lambda Functions Container Orchestration Machine Learning Load Balancing Neural Networks Performance Edge Computing
