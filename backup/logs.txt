@@ -29,3 +29,4 @@ GraphQL API Gateway Version Control DNS Routing OAuth If you can dream it, you c
 Serverless Great things never come from comfort zones. Security Happiness is not something ready made. It comes from your own actions. Lambda Functions UX Optimization Success usually comes to those who are too busy to be looking for it. Kubernetes
 Success is how high you bounce when you hit bottom. Success is not in what you have, but who you are. Version Control Backend Event-driven Architecture JavaScript Microservices OAuth Quantum Computing Simplicity is the ultimate sophistication. RabbitMQ Kafka Dream big and dare to fail. Edge Computing Containerization
 Microservices API Gateway Cache Invalidation Sharding Deployment Predictive Analytics
+Pull Request Containerization Microservices Do what you love and the money will follow. Python
