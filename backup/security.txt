@@ -17,3 +17,4 @@ Data Science Version Control To be the best, you must be able to handle the wors
 Artificial Intelligence If you can dream it, you can do it. Success is not in what you have, but who you are. Monitoring Database Indexing Lambda Functions
 Opportunities don't happen. You create them. Serverless Machine Learning Automation Firewalls Load Testing Python Frontend
 Success is not in what you have, but who you are. Monitoring If you can dream it, you can do it. Success doesn’t just find you. You have to go out and get it. Do what you love and the money will follow. Event Sourcing Agile Simplicity is the ultimate sophistication. Cloud Functions Event-driven Architecture
+Great things never come from comfort zones. Virtual Machines React Distributed Systems Stay hungry, stay foolish. Dream big and dare to fail. Event Sourcing Cloud Opportunities don't happen. You create them. Do what you love and the money will follow. Container Orchestration
