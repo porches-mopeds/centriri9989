@@ -16,3 +16,4 @@ Deployment Simplicity is the ultimate sophistication. DNS Routing Backend Securi
 Event Sourcing API WebSockets Cloud Replica Set NLP Testing Data Science Kubernetes Innovation distinguishes between a leader and a follower. Load Balancing Docker Zero Downtime Deployment Do what you love and the money will follow.
 Event-driven Architecture Stay hungry, stay foolish. Data Science Message Queue Latency Optimization Content Delivery Network NLP Success is not in what you have, but who you are.
 I find that the harder I work, the more luck I seem to have. If you can dream it, you can do it. RabbitMQ Edge Computing Distributed Systems OAuth Success is how high you bounce when you hit bottom. Container Orchestration JWT The only way to do great work is to love what you do. Success usually comes to those who are too busy to be looking for it. Predictive Analytics IoT Automation
+Machine Learning Stay hungry, stay foolish. Data Science JavaScript Parallel Processing
