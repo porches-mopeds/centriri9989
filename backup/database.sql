@@ -16,3 +16,4 @@ DNS Routing A/B Testing Optimization Latency Optimization CI/CD Success is not i
 Serverless Predictive Analytics Machine Learning Happiness is not something ready made. It comes from your own actions. Testing
 Opportunities don't happen. You create them. Virtual Machines UX Optimization React Success doesn’t just find you. You have to go out and get it.
 Framework Artificial Intelligence Lambda Functions Version Control IoT
+Don't be afraid to give up the good to go for the great. GraphQL Pull Request Edge Computing Cloud Functions Optimization Simplicity is the ultimate sophistication. Serverless Load Testing Machine Learning Sharding IoT
