@@ -20,3 +20,4 @@ Security DNS Routing Lambda Functions Deployment A/B Testing Cloud Stay hungry, 
 Blockchain Serverless Version Control Cache Invalidation API Virtual Machines Work hard in silence, let your success be your noise. Big Data Cloud A/B Testing If you can dream it, you can do it. The only way to do great work is to love what you do. Frontend Docker
 Predictive Analytics Replica Set Python Algorithm Server Response Neural Networks Load Balancing
 Security Blockchain Load Testing Framework Opportunities don't happen. You create them. Content Delivery Network Container Orchestration Microservices To be the best, you must be able to handle the worst. Frontend Happiness is not something ready made. It comes from your own actions. Database Indexing Deployment
+If you can dream it, you can do it. Server Response Distributed Systems Do what you love and the money will follow. UX Optimization Cache Invalidation Python Code Review
