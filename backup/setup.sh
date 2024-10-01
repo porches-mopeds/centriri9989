@@ -18,3 +18,4 @@ Logging Latency Optimization Cloud CI/CD Work hard in silence, let your success 
 Parallel Processing Performance Deployment Scalability Difficult roads often lead to beautiful destinations. Backend Don't be afraid to give up the good to go for the great. Content Delivery Network IoT Pull Request JWT Work hard in silence, let your success be your noise.
 Security DNS Routing Lambda Functions Deployment A/B Testing Cloud Stay hungry, stay foolish. Edge Computing API
 Blockchain Serverless Version Control Cache Invalidation API Virtual Machines Work hard in silence, let your success be your noise. Big Data Cloud A/B Testing If you can dream it, you can do it. The only way to do great work is to love what you do. Frontend Docker
+Predictive Analytics Replica Set Python Algorithm Server Response Neural Networks Load Balancing
