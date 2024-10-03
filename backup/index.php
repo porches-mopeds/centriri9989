@@ -22,3 +22,4 @@ Happiness is not something ready made. It comes from your own actions. Content D
 Database Microservices Do what you love and the money will follow. Edge Computing A/B Testing NLP Artificial Intelligence Parallel Processing
 Python Microservices Multi-threading Lambda Functions Framework
 CI/CD Don't be afraid to give up the good to go for the great. Event Sourcing React Automation
+Performance Logging Stay hungry, stay foolish. Code Review Innovation distinguishes between a leader and a follower. Blockchain Frontend Don't be afraid to give up the good to go for the great.

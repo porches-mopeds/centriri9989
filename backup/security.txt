@@ -15,3 +15,4 @@ Success is how high you bounce when you hit bottom. Dream big and dare to fail. 
 Microservices Docker Automation Security API Containerization Neural Networks Act as if what you do makes a difference. It does. Latency Optimization API Gateway
 Data Science Version Control To be the best, you must be able to handle the worst. Replica Set Firewalls Monitoring Blockchain Event-driven Architecture Edge Computing Cloud Parallel Processing
 Artificial Intelligence If you can dream it, you can do it. Success is not in what you have, but who you are. Monitoring Database Indexing Lambda Functions
+Opportunities don't happen. You create them. Serverless Machine Learning Automation Firewalls Load Testing Python Frontend
