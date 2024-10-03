@@ -29,3 +29,4 @@ Cloud Functions Zero Downtime Deployment API Testing Backend
 Innovation distinguishes between a leader and a follower. Stay hungry, stay foolish. Zero Downtime Deployment Latency Optimization Parallel Processing Simplicity is the ultimate sophistication. Replica Set WebSockets
 The only way to do great work is to love what you do. Deployment Neural Networks Data Science Zero Downtime Deployment Event-driven Architecture Success usually comes to those who are too busy to be looking for it. Optimization OAuth
 Sharding Firewalls Big Data Do what you love and the money will follow. Zero Downtime Deployment Containerization Database Lambda Functions Multi-threading Server Response Simplicity is the ultimate sophistication. DNS Routing Content Delivery Network Event-driven Architecture Serverless
+Algorithm Performance Scalability Framework Server Response CI/CD React Monitoring Data Pipeline Do what you love and the money will follow. Container Orchestration Kafka

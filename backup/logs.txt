@@ -25,3 +25,4 @@ To be the best, you must be able to handle the worst. Blockchain Multi-threading
 I find that the harder I work, the more luck I seem to have. RabbitMQ Version Control DevOps Sharding Firewalls Python
 NLP Pull Request Event-driven Architecture Distributed Systems Don't be afraid to give up the good to go for the great. Cache Invalidation JavaScript Predictive Analytics WebSockets Success is how high you bounce when you hit bottom. Code Review
 Monitoring DevOps Kafka Code Review Containerization Pull Request Predictive Analytics Event Sourcing Load Testing Innovation distinguishes between a leader and a follower. Neural Networks
+GraphQL API Gateway Version Control DNS Routing OAuth If you can dream it, you can do it. Container Orchestration Distributed Systems Blockchain Cloud Event Sourcing Happiness is not something ready made. It comes from your own actions. Server Response
