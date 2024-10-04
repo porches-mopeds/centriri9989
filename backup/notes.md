@@ -22,3 +22,4 @@ Deployment If you can dream it, you can do it. Quantum Computing Python I find t
 Security Load Testing Artificial Intelligence DevOps Multi-threading Cloud Performance To be the best, you must be able to handle the worst. Testing Stay hungry, stay foolish. If you can dream it, you can do it. RabbitMQ
 Data Pipeline Content Delivery Network WebSockets Zero Downtime Deployment Latency Optimization API Gateway Kafka Simplicity is the ultimate sophistication. Blockchain NLP Quantum Computing
 Monitoring Server Response Frontend Testing Zero Downtime Deployment Algorithm Success is how high you bounce when you hit bottom. Success doesn’t just find you. You have to go out and get it.
+Docker To be the best, you must be able to handle the worst. Database Success is not in what you have, but who you are. Lambda Functions Do what you love and the money will follow. Testing Server Response Kubernetes NLP Backend GraphQL Success is how high you bounce when you hit bottom.

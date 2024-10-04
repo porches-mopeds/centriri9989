@@ -17,3 +17,4 @@ Sharding A/B Testing Automation Microservices Optimization Predictive Analytics 
 Happiness is not something ready made. It comes from your own actions. Blockchain Performance Docker Optimization Microservices Logging Machine Learning Distributed Systems Sharding
 To be the best, you must be able to handle the worst. Data Science Message Queue Opportunities don't happen. You create them. Microservices
 Parallel Processing Great things never come from comfort zones. Message Queue A/B Testing Pull Request Act as if what you do makes a difference. It does. Lambda Functions Sharding CI/CD Algorithm Simplicity is the ultimate sophistication. OAuth JWT
+JWT Data Science NLP Latency Optimization Serverless Neural Networks Message Queue Algorithm
