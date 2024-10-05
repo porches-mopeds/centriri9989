@@ -14,3 +14,4 @@ Server Response Scalability Machine Learning Don't be afraid to give up the good
 Docker Agile DevOps Event-driven Architecture Neural Networks Success doesn’t just find you. You have to go out and get it. Success is not in what you have, but who you are. Quantum Computing GraphQL Replica Set A/B Testing Monitoring Event Sourcing React DNS Routing
 Deployment Simplicity is the ultimate sophistication. DNS Routing Backend Security Stay hungry, stay foolish. A/B Testing Load Testing Sharding Version Control Virtual Machines IoT WebSockets
 Event Sourcing API WebSockets Cloud Replica Set NLP Testing Data Science Kubernetes Innovation distinguishes between a leader and a follower. Load Balancing Docker Zero Downtime Deployment Do what you love and the money will follow.
+Event-driven Architecture Stay hungry, stay foolish. Data Science Message Queue Latency Optimization Content Delivery Network NLP Success is not in what you have, but who you are.
