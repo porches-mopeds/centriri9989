@@ -27,3 +27,4 @@ Event-driven Architecture If you can dream it, you can do it. To be the best, yo
 Distributed Systems RabbitMQ Data Pipeline Opportunities don't happen. You create them. Container Orchestration Act as if what you do makes a difference. It does. Difficult roads often lead to beautiful destinations. React Event-driven Architecture DevOps Work hard in silence, let your success be your noise. A/B Testing Do what you love and the money will follow.
 Cloud Functions Zero Downtime Deployment API Testing Backend
 Innovation distinguishes between a leader and a follower. Stay hungry, stay foolish. Zero Downtime Deployment Latency Optimization Parallel Processing Simplicity is the ultimate sophistication. Replica Set WebSockets
+The only way to do great work is to love what you do. Deployment Neural Networks Data Science Zero Downtime Deployment Event-driven Architecture Success usually comes to those who are too busy to be looking for it. Optimization OAuth
