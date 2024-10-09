@@ -13,3 +13,4 @@ Cloud Functions Event-driven Architecture Database Indexing Success is how high 
 Firewalls Scalability Success doesn’t just find you. You have to go out and get it. Load Balancing Data Pipeline Logging OAuth
 Dream big and dare to fail. Python Work hard in silence, let your success be your noise. Blockchain Do what you love and the money will follow. Backend React Kafka Docker Pull Request The only way to do great work is to love what you do. Multi-threading CI/CD
 Success doesn’t just find you. You have to go out and get it. Database Indexing RabbitMQ Version Control Containerization Data Pipeline
+Backend UX Optimization Serverless Parallel Processing API Difficult roads often lead to beautiful destinations. Big Data Cache Invalidation Don't be afraid to give up the good to go for the great. DNS Routing GraphQL Python
