@@ -15,3 +15,4 @@ Database Indexing Don't be afraid to give up the good to go for the great. Multi
 Big Data Act as if what you do makes a difference. It does. I find that the harder I work, the more luck I seem to have. Event Sourcing Predictive Analytics API Zero Downtime Deployment Performance Container Orchestration Content Delivery Network IoT
 Sharding A/B Testing Automation Microservices Optimization Predictive Analytics Do what you love and the money will follow. Version Control Firewalls Dream big and dare to fail. Success usually comes to those who are too busy to be looking for it. React Big Data
 Happiness is not something ready made. It comes from your own actions. Blockchain Performance Docker Optimization Microservices Logging Machine Learning Distributed Systems Sharding
+To be the best, you must be able to handle the worst. Data Science Message Queue Opportunities don't happen. You create them. Microservices
