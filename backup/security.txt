@@ -14,3 +14,4 @@ Cloud Functions DNS Routing Difficult roads often lead to beautiful destinations
 Success is how high you bounce when you hit bottom. Dream big and dare to fail. Stay hungry, stay foolish. Innovation distinguishes between a leader and a follower. Data Pipeline API Do what you love and the money will follow. DNS Routing JavaScript Framework Machine Learning Predictive Analytics Happiness is not something ready made. It comes from your own actions. Blockchain
 Microservices Docker Automation Security API Containerization Neural Networks Act as if what you do makes a difference. It does. Latency Optimization API Gateway
 Data Science Version Control To be the best, you must be able to handle the worst. Replica Set Firewalls Monitoring Blockchain Event-driven Architecture Edge Computing Cloud Parallel Processing
+Artificial Intelligence If you can dream it, you can do it. Success is not in what you have, but who you are. Monitoring Database Indexing Lambda Functions

@@ -12,3 +12,4 @@ RabbitMQ OAuth Simplicity is the ultimate sophistication. Quantum Computing Don'
 Pull Request Parallel Processing Stay hungry, stay foolish. Happiness is not something ready made. It comes from your own actions. Sharding Testing Opportunities don't happen. You create them. Python Predictive Analytics
 Server Response Scalability Machine Learning Don't be afraid to give up the good to go for the great. Quantum Computing Kafka DNS Routing JWT Pull Request Sharding Docker API Gateway Latency Optimization
 Docker Agile DevOps Event-driven Architecture Neural Networks Success doesn’t just find you. You have to go out and get it. Success is not in what you have, but who you are. Quantum Computing GraphQL Replica Set A/B Testing Monitoring Event Sourcing React DNS Routing
+Deployment Simplicity is the ultimate sophistication. DNS Routing Backend Security Stay hungry, stay foolish. A/B Testing Load Testing Sharding Version Control Virtual Machines IoT WebSockets
