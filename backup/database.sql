@@ -13,3 +13,4 @@ Dream big and dare to fail. JWT GraphQL The only way to do great work is to love
 Deployment Distributed Systems Version Control RabbitMQ Predictive Analytics Automation Database Indexing Kubernetes WebSockets Artificial Intelligence Parallel Processing Work hard in silence, let your success be your noise. JWT The only way to do great work is to love what you do.
 GraphQL Cloud Functions Cache Invalidation Security If you can dream it, you can do it. OAuth Quantum Computing Scalability Edge Computing
 DNS Routing A/B Testing Optimization Latency Optimization CI/CD Success is not in what you have, but who you are. Code Review WebSockets
+Serverless Predictive Analytics Machine Learning Happiness is not something ready made. It comes from your own actions. Testing
