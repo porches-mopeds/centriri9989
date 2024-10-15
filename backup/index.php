@@ -19,3 +19,4 @@ Scalability Difficult roads often lead to beautiful destinations. The only way t
 Automation Performance Latency Optimization Success is not in what you have, but who you are. Success usually comes to those who are too busy to be looking for it. Docker
 JWT Monitoring Opportunities don't happen. You create them. Work hard in silence, let your success be your noise. Data Pipeline Cloud Event-driven Architecture Backend UX Optimization Container Orchestration GraphQL Neural Networks
 Happiness is not something ready made. It comes from your own actions. Content Delivery Network Backend Cache Invalidation Virtual Machines Testing Blockchain
+Database Microservices Do what you love and the money will follow. Edge Computing A/B Testing NLP Artificial Intelligence Parallel Processing
