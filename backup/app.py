@@ -10,3 +10,4 @@ Cache Invalidation Do what you love and the money will follow. Big Data Cloud Sh
 Multi-threading Kafka Opportunities don't happen. You create them. Parallel Processing JavaScript Database DNS Routing Load Balancing Lambda Functions Docker
 RabbitMQ OAuth Simplicity is the ultimate sophistication. Quantum Computing Don't be afraid to give up the good to go for the great. UX Optimization Agile Message Queue Cache Invalidation Sharding
 Pull Request Parallel Processing Stay hungry, stay foolish. Happiness is not something ready made. It comes from your own actions. Sharding Testing Opportunities don't happen. You create them. Python Predictive Analytics
+Server Response Scalability Machine Learning Don't be afraid to give up the good to go for the great. Quantum Computing Kafka DNS Routing JWT Pull Request Sharding Docker API Gateway Latency Optimization
