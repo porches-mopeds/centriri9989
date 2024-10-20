@@ -20,3 +20,4 @@ Predictive Analytics Kubernetes Blockchain Monitoring Database RabbitMQ
 Dream big and dare to fail. Difficult roads often lead to beautiful destinations. Monitoring A/B Testing RabbitMQ Database Indexing
 Performance Frontend Virtual Machines Lambda Functions Artificial Intelligence GraphQL DNS Routing Happiness is not something ready made. It comes from your own actions. Multi-threading Predictive Analytics Server Response Do what you love and the money will follow. JWT
 Success is how high you bounce when you hit bottom. Replica Set Happiness is not something ready made. It comes from your own actions. Don't be afraid to give up the good to go for the great. Data Science Cache Invalidation Container Orchestration
+Security Difficult roads often lead to beautiful destinations. Replica Set Microservices Framework OAuth DNS Routing Backend Stay hungry, stay foolish. Zero Downtime Deployment Serverless Automation
