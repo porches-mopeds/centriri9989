@@ -9,3 +9,4 @@ Optimization IoT Content Delivery Network Blockchain React Security Scalability
 Cache Invalidation Do what you love and the money will follow. Big Data Cloud Sharding Database Indexing Agile RabbitMQ OAuth Scalability
 Multi-threading Kafka Opportunities don't happen. You create them. Parallel Processing JavaScript Database DNS Routing Load Balancing Lambda Functions Docker
 RabbitMQ OAuth Simplicity is the ultimate sophistication. Quantum Computing Don't be afraid to give up the good to go for the great. UX Optimization Agile Message Queue Cache Invalidation Sharding
+Pull Request Parallel Processing Stay hungry, stay foolish. Happiness is not something ready made. It comes from your own actions. Sharding Testing Opportunities don't happen. You create them. Python Predictive Analytics
