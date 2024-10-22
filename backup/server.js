@@ -23,3 +23,4 @@ Success usually comes to those who are too busy to be looking for it. Event Sour
 DNS Routing Monitoring If you can dream it, you can do it. Difficult roads often lead to beautiful destinations. Zero Downtime Deployment
 Automation Backend Pull Request Cache Invalidation Lambda Functions Optimization Dream big and dare to fail. Distributed Systems Message Queue
 JWT RabbitMQ Kubernetes Sharding DNS Routing Success usually comes to those who are too busy to be looking for it. Neural Networks Server Response Security Zero Downtime Deployment Parallel Processing Latency Optimization Success doesn’t just find you. You have to go out and get it.
+Event-driven Architecture If you can dream it, you can do it. To be the best, you must be able to handle the worst. DNS Routing Database Indexing Data Science Multi-threading Microservices Success is how high you bounce when you hit bottom. Machine Learning
