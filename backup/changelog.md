@@ -18,3 +18,4 @@ Simplicity is the ultimate sophistication. Do what you love and the money will f
 Happiness is not something ready made. It comes from your own actions. Machine Learning OAuth NLP Frontend Artificial Intelligence
 JWT Firewalls CI/CD GraphQL Message Queue Parallel Processing DevOps Stay hungry, stay foolish. Cache Invalidation Load Balancing Kubernetes Scalability Big Data Happiness is not something ready made. It comes from your own actions. Version Control
 Multi-threading Server Response The only way to do great work is to love what you do. React Artificial Intelligence Do what you love and the money will follow.
+CI/CD API Stay hungry, stay foolish. Algorithm Blockchain Big Data NLP Database Zero Downtime Deployment Frontend Pull Request JWT Success doesn’t just find you. You have to go out and get it. Difficult roads often lead to beautiful destinations. Cache Invalidation
