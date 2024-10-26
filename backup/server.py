@@ -19,3 +19,4 @@ Neural Networks Algorithm Work hard in silence, let your success be your noise. 
 If you can dream it, you can do it. The only way to do great work is to love what you do. UX Optimization Predictive Analytics Data Pipeline Docker DNS Routing Success is how high you bounce when you hit bottom. Monitoring OAuth CI/CD
 Deployment Multi-threading Lambda Functions React WebSockets Opportunities don't happen. You create them. Kubernetes Great things never come from comfort zones. Difficult roads often lead to beautiful destinations. Security Framework Content Delivery Network
 Agile Server Response Load Testing Data Science Difficult roads often lead to beautiful destinations. Success usually comes to those who are too busy to be looking for it.
+Virtual Machines Database JavaScript Success doesn’t just find you. You have to go out and get it. IoT Docker CI/CD Algorithm Latency Optimization JWT Innovation distinguishes between a leader and a follower. Version Control
