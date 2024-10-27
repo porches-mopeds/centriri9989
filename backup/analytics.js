@@ -17,3 +17,4 @@ UX Optimization Zero Downtime Deployment DNS Routing Success doesn’t just find y
 JWT Testing Edge Computing Neural Networks Data Science Work hard in silence, let your success be your noise. Big Data Optimization
 Security Big Data Database Indexing WebSockets JWT UX Optimization Cloud Load Balancing Act as if what you do makes a difference. It does. To be the best, you must be able to handle the worst.
 Pull Request Zero Downtime Deployment Event Sourcing UX Optimization Load Testing Cloud Functions Big Data Multi-threading Parallel Processing Security Scalability Deployment Work hard in silence, let your success be your noise. Success doesn’t just find you. You have to go out and get it.
+Don't be afraid to give up the good to go for the great. Act as if what you do makes a difference. It does. Framework Difficult roads often lead to beautiful destinations. Code Review Great things never come from comfort zones.
