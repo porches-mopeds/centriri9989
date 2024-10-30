@@ -17,3 +17,4 @@ Performance Cloud Firewalls Cloud Functions Cache Invalidation GraphQL Parallel 
 Artificial Intelligence Replica Set JavaScript Blockchain UX Optimization Lambda Functions If you can dream it, you can do it. Multi-threading Event Sourcing NLP Code Review
 Automation Do what you love and the money will follow. Don't be afraid to give up the good to go for the great. Docker Stay hungry, stay foolish. Backend Dream big and dare to fail. Firewalls
 Parallel Processing Frontend Cloud Opportunities don't happen. You create them. Containerization
+Success doesn’t just find you. You have to go out and get it. Sharding Content Delivery Network Work hard in silence, let your success be your noise. React Do what you love and the money will follow. A/B Testing Message Queue Happiness is not something ready made. It comes from your own actions.

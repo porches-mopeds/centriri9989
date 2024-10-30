@@ -17,3 +17,4 @@ CI/CD Innovation distinguishes between a leader and a follower. Artificial Intel
 Simplicity is the ultimate sophistication. Do what you love and the money will follow. A/B Testing Content Delivery Network Data Science Innovation distinguishes between a leader and a follower. Algorithm Success is how high you bounce when you hit bottom. Replica Set Load Balancing Work hard in silence, let your success be your noise. Big Data
 Happiness is not something ready made. It comes from your own actions. Machine Learning OAuth NLP Frontend Artificial Intelligence
 JWT Firewalls CI/CD GraphQL Message Queue Parallel Processing DevOps Stay hungry, stay foolish. Cache Invalidation Load Balancing Kubernetes Scalability Big Data Happiness is not something ready made. It comes from your own actions. Version Control
+Multi-threading Server Response The only way to do great work is to love what you do. React Artificial Intelligence Do what you love and the money will follow.
