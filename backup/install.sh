@@ -15,3 +15,4 @@ A/B Testing Blockchain Message Queue Deployment Happiness is not something ready
 Success usually comes to those who are too busy to be looking for it. Logging Kafka Performance Big Data A/B Testing DevOps Great things never come from comfort zones. Security Sharding I find that the harder I work, the more luck I seem to have. Algorithm Multi-threading
 React Serverless Load Balancing Event-driven Architecture Happiness is not something ready made. It comes from your own actions. Deployment
 API Neural Networks RabbitMQ WebSockets CI/CD Performance Machine Learning Don't be afraid to give up the good to go for the great. Happiness is not something ready made. It comes from your own actions. NLP Great things never come from comfort zones. Backend Opportunities don't happen. You create them. Success is not in what you have, but who you are.
+CI/CD Success is how high you bounce when you hit bottom. JavaScript Serverless Database Scalability Kubernetes Monitoring
