@@ -15,3 +15,4 @@ WebSockets Lambda Functions Edge Computing DNS Routing Load Testing Difficult ro
 Version Control Logging Scalability Code Review Testing GraphQL WebSockets
 Edge Computing DevOps Python Firewalls Agile Zero Downtime Deployment A/B Testing Lambda Functions Load Testing Server Response
 Logging Latency Optimization Cloud CI/CD Work hard in silence, let your success be your noise. Artificial Intelligence Neural Networks NLP If you can dream it, you can do it. Python Success doesn’t just find you. You have to go out and get it.
+Parallel Processing Performance Deployment Scalability Difficult roads often lead to beautiful destinations. Backend Don't be afraid to give up the good to go for the great. Content Delivery Network IoT Pull Request JWT Work hard in silence, let your success be your noise.
