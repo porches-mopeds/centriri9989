@@ -18,3 +18,4 @@ Do what you love and the money will follow. Automation I find that the harder I 
 I find that the harder I work, the more luck I seem to have. Database Indexing Code Review Data Science Optimization Act as if what you do makes a difference. It does. Agile
 Predictive Analytics Kubernetes Blockchain Monitoring Database RabbitMQ
 Dream big and dare to fail. Difficult roads often lead to beautiful destinations. Monitoring A/B Testing RabbitMQ Database Indexing
+Performance Frontend Virtual Machines Lambda Functions Artificial Intelligence GraphQL DNS Routing Happiness is not something ready made. It comes from your own actions. Multi-threading Predictive Analytics Server Response Do what you love and the money will follow. JWT

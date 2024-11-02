@@ -15,3 +15,4 @@ Lambda Functions Kafka Performance Cache Invalidation JWT Frontend Logging Conta
 Edge Computing To be the best, you must be able to handle the worst. RabbitMQ Scalability Great things never come from comfort zones. Agile Latency Optimization Difficult roads often lead to beautiful destinations. JWT Docker React Cloud Functions Load Balancing Message Queue
 Performance Cloud Firewalls Cloud Functions Cache Invalidation GraphQL Parallel Processing Serverless Code Review Testing
 Artificial Intelligence Replica Set JavaScript Blockchain UX Optimization Lambda Functions If you can dream it, you can do it. Multi-threading Event Sourcing NLP Code Review
+Automation Do what you love and the money will follow. Don't be afraid to give up the good to go for the great. Docker Stay hungry, stay foolish. Backend Dream big and dare to fail. Firewalls
