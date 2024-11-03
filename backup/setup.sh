@@ -14,3 +14,4 @@ RabbitMQ Data Pipeline Lambda Functions I find that the harder I work, the more 
 WebSockets Lambda Functions Edge Computing DNS Routing Load Testing Difficult roads often lead to beautiful destinations. Scalability Latency Optimization Logging Testing
 Version Control Logging Scalability Code Review Testing GraphQL WebSockets
 Edge Computing DevOps Python Firewalls Agile Zero Downtime Deployment A/B Testing Lambda Functions Load Testing Server Response
+Logging Latency Optimization Cloud CI/CD Work hard in silence, let your success be your noise. Artificial Intelligence Neural Networks NLP If you can dream it, you can do it. Python Success doesn’t just find you. You have to go out and get it.
