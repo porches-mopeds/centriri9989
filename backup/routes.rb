@@ -12,3 +12,4 @@ To be the best, you must be able to handle the worst. Logging Zero Downtime Depl
 Quantum Computing Testing DNS Routing Success doesn’t just find you. You have to go out and get it. Pull Request Container Orchestration UX Optimization Framework Zero Downtime Deployment Blockchain Content Delivery Network Stay hungry, stay foolish. Don't be afraid to give up the good to go for the great. API Virtual Machines
 Lambda Functions Optimization Microservices Distributed Systems Latency Optimization
 Database Indexing Don't be afraid to give up the good to go for the great. Multi-threading Success doesn’t just find you. You have to go out and get it. Message Queue GraphQL
+Big Data Act as if what you do makes a difference. It does. I find that the harder I work, the more luck I seem to have. Event Sourcing Predictive Analytics API Zero Downtime Deployment Performance Container Orchestration Content Delivery Network IoT
