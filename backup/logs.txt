@@ -17,3 +17,4 @@ Message Queue JWT Do what you love and the money will follow. Zero Downtime Depl
 Do what you love and the money will follow. Automation I find that the harder I work, the more luck I seem to have. Cloud Sharding Neural Networks
 I find that the harder I work, the more luck I seem to have. Database Indexing Code Review Data Science Optimization Act as if what you do makes a difference. It does. Agile
 Predictive Analytics Kubernetes Blockchain Monitoring Database RabbitMQ
+Dream big and dare to fail. Difficult roads often lead to beautiful destinations. Monitoring A/B Testing RabbitMQ Database Indexing
