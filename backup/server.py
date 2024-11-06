@@ -16,3 +16,4 @@ Act as if what you do makes a difference. It does. Server Response Testing Conta
 Database Predictive Analytics Kubernetes GraphQL Message Queue
 Stay hungry, stay foolish. Data Science Optimization JavaScript Cloud Functions Docker Performance Pull Request Success doesn’t just find you. You have to go out and get it. A/B Testing Zero Downtime Deployment Agile
 Neural Networks Algorithm Work hard in silence, let your success be your noise. Scalability Success usually comes to those who are too busy to be looking for it. WebSockets Success is not in what you have, but who you are. Opportunities don't happen. You create them. Act as if what you do makes a difference. It does. Cloud UX Optimization
+If you can dream it, you can do it. The only way to do great work is to love what you do. UX Optimization Predictive Analytics Data Pipeline Docker DNS Routing Success is how high you bounce when you hit bottom. Monitoring OAuth CI/CD
