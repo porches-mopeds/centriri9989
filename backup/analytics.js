@@ -15,3 +15,4 @@ Container Orchestration Python Cloud Functions Sharding Cloud Cache Invalidation
 Success is how high you bounce when you hit bottom. Stay hungry, stay foolish. Automation Blockchain Virtual Machines GraphQL DNS Routing Content Delivery Network DevOps Cache Invalidation Logging Lambda Functions JWT Kubernetes CI/CD
 UX Optimization Zero Downtime Deployment DNS Routing Success doesn’t just find you. You have to go out and get it. Cache Invalidation Virtual Machines
 JWT Testing Edge Computing Neural Networks Data Science Work hard in silence, let your success be your noise. Big Data Optimization
+Security Big Data Database Indexing WebSockets JWT UX Optimization Cloud Load Balancing Act as if what you do makes a difference. It does. To be the best, you must be able to handle the worst.
