@@ -13,3 +13,4 @@ Success doesn’t just find you. You have to go out and get it. Machine Learning D
 RabbitMQ Data Pipeline Lambda Functions I find that the harder I work, the more luck I seem to have. Load Testing Cloud
 WebSockets Lambda Functions Edge Computing DNS Routing Load Testing Difficult roads often lead to beautiful destinations. Scalability Latency Optimization Logging Testing
 Version Control Logging Scalability Code Review Testing GraphQL WebSockets
+Edge Computing DevOps Python Firewalls Agile Zero Downtime Deployment A/B Testing Lambda Functions Load Testing Server Response
