@@ -16,3 +16,4 @@ Automation Parallel Processing Lambda Functions Kubernetes Containerization Act 
 Message Queue JWT Do what you love and the money will follow. Zero Downtime Deployment NLP Sharding Success doesn’t just find you. You have to go out and get it. Distributed Systems Event Sourcing Stay hungry, stay foolish. Firewalls Lambda Functions
 Do what you love and the money will follow. Automation I find that the harder I work, the more luck I seem to have. Cloud Sharding Neural Networks
 I find that the harder I work, the more luck I seem to have. Database Indexing Code Review Data Science Optimization Act as if what you do makes a difference. It does. Agile
+Predictive Analytics Kubernetes Blockchain Monitoring Database RabbitMQ
