@@ -14,3 +14,4 @@ To be the best, you must be able to handle the worst. Containerization Happiness
 Virtual Machines Database Artificial Intelligence Innovation distinguishes between a leader and a follower. Data Pipeline Framework
 Distributed Systems DevOps Replica Set Scalability Monitoring Algorithm API DNS Routing Success doesn’t just find you. You have to go out and get it. Big Data
 UX Optimization Machine Learning Distributed Systems Success doesn’t just find you. You have to go out and get it. Innovation distinguishes between a leader and a follower. JavaScript Performance Code Review Version Control Virtual Machines
+Optimization Do what you love and the money will follow. Simplicity is the ultimate sophistication. CI/CD Virtual Machines The only way to do great work is to love what you do. Cache Invalidation UX Optimization Stay hungry, stay foolish. Success is not in what you have, but who you are. A/B Testing Serverless API Gateway
