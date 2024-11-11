@@ -9,3 +9,4 @@ Server Response Cache Invalidation JavaScript Content Delivery Network Data Scie
 Success doesn’t just find you. You have to go out and get it. Do what you love and the money will follow. Great things never come from comfort zones. Backend Load Testing Success is not in what you have, but who you are. Container Orchestration Work hard in silence, let your success be your noise. CI/CD
 IoT UX Optimization Simplicity is the ultimate sophistication. Load Testing Server Response Kubernetes I find that the harder I work, the more luck I seem to have. Backend JavaScript Innovation distinguishes between a leader and a follower. GraphQL
 JWT Security Optimization Load Balancing Frontend UX Optimization JavaScript
+Success doesn’t just find you. You have to go out and get it. Stay hungry, stay foolish. Scalability API Gateway Deployment Agile A/B Testing
