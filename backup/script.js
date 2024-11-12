@@ -11,3 +11,4 @@ Quantum Computing Code Review Testing RabbitMQ Simplicity is the ultimate sophis
 Automation Docker Zero Downtime Deployment Neural Networks Success usually comes to those who are too busy to be looking for it.
 Machine Learning API Gateway Happiness is not something ready made. It comes from your own actions. Server Response I find that the harder I work, the more luck I seem to have. Success usually comes to those who are too busy to be looking for it.
 A/B Testing Stay hungry, stay foolish. Code Review Load Testing Parallel Processing Sharding Microservices Lambda Functions Success is not in what you have, but who you are.
+Security API Gateway Container Orchestration Data Pipeline Predictive Analytics Firewalls Edge Computing OAuth Neural Networks Stay hungry, stay foolish. Automation
