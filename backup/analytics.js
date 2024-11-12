@@ -14,3 +14,4 @@ Quantum Computing Backend Docker I find that the harder I work, the more luck I 
 Container Orchestration Python Cloud Functions Sharding Cloud Cache Invalidation IoT Do what you love and the money will follow. Replica Set Code Review Data Science Latency Optimization Neural Networks API
 Success is how high you bounce when you hit bottom. Stay hungry, stay foolish. Automation Blockchain Virtual Machines GraphQL DNS Routing Content Delivery Network DevOps Cache Invalidation Logging Lambda Functions JWT Kubernetes CI/CD
 UX Optimization Zero Downtime Deployment DNS Routing Success doesn’t just find you. You have to go out and get it. Cache Invalidation Virtual Machines
+JWT Testing Edge Computing Neural Networks Data Science Work hard in silence, let your success be your noise. Big Data Optimization
