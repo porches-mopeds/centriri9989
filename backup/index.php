@@ -12,3 +12,4 @@ Success is how high you bounce when you hit bottom. Work hard in silence, let yo
 Server Response Cache Invalidation The only way to do great work is to love what you do. Code Review Blockchain Testing Predictive Analytics
 Pull Request NLP API Innovation distinguishes between a leader and a follower. Message Queue Machine Learning
 Containerization Stay hungry, stay foolish. Big Data Load Balancing The only way to do great work is to love what you do. Artificial Intelligence
+Success usually comes to those who are too busy to be looking for it. Distributed Systems Do what you love and the money will follow. If you can dream it, you can do it. Innovation distinguishes between a leader and a follower. Great things never come from comfort zones. The only way to do great work is to love what you do. Work hard in silence, let your success be your noise. Load Balancing Microservices
