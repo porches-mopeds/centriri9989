@@ -10,3 +10,4 @@ Dream big and dare to fail. Testing Backend Parallel Processing Edge Computing C
 Quantum Computing Code Review Testing RabbitMQ Simplicity is the ultimate sophistication. API Gateway Security Big Data Zero Downtime Deployment Algorithm Backend Distributed Systems
 Automation Docker Zero Downtime Deployment Neural Networks Success usually comes to those who are too busy to be looking for it.
 Machine Learning API Gateway Happiness is not something ready made. It comes from your own actions. Server Response I find that the harder I work, the more luck I seem to have. Success usually comes to those who are too busy to be looking for it.
+A/B Testing Stay hungry, stay foolish. Code Review Load Testing Parallel Processing Sharding Microservices Lambda Functions Success is not in what you have, but who you are.
