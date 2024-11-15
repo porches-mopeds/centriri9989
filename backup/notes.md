@@ -12,3 +12,4 @@ Zero Downtime Deployment Do what you love and the money will follow. Virtual Mac
 Sharding Neural Networks WebSockets Performance Scalability Simplicity is the ultimate sophistication. Success is how high you bounce when you hit bottom. Success usually comes to those who are too busy to be looking for it. Predictive Analytics GraphQL
 Deployment Success usually comes to those who are too busy to be looking for it. A/B Testing Testing RabbitMQ WebSockets Docker Microservices Cloud
 Lambda Functions Kafka Performance Cache Invalidation JWT Frontend Logging Container Orchestration Latency Optimization
+Edge Computing To be the best, you must be able to handle the worst. RabbitMQ Scalability Great things never come from comfort zones. Agile Latency Optimization Difficult roads often lead to beautiful destinations. JWT Docker React Cloud Functions Load Balancing Message Queue

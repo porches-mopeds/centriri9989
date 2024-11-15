@@ -11,3 +11,4 @@ JavaScript Container Orchestration Lambda Functions UX Optimization Frontend Zer
 Database Indexing A/B Testing Code Review Backend API Success is not in what you have, but who you are. Blockchain RabbitMQ Predictive Analytics Automation Act as if what you do makes a difference. It does. Do what you love and the money will follow. JWT The only way to do great work is to love what you do. Data Science
 Success doesn’t just find you. You have to go out and get it. Machine Learning Data Pipeline Testing Zero Downtime Deployment Virtual Machines Load Balancing Algorithm Pull Request DevOps Event-driven Architecture Great things never come from comfort zones. API
 RabbitMQ Data Pipeline Lambda Functions I find that the harder I work, the more luck I seem to have. Load Testing Cloud
+WebSockets Lambda Functions Edge Computing DNS Routing Load Testing Difficult roads often lead to beautiful destinations. Scalability Latency Optimization Logging Testing
