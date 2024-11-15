@@ -10,3 +10,4 @@ Success usually comes to those who are too busy to be looking for it. Edge Compu
 Python React Dream big and dare to fail. OAuth JavaScript Simplicity is the ultimate sophistication. CI/CD Agile Success is how high you bounce when you hit bottom. Parallel Processing Automation Data Science Great things never come from comfort zones. Serverless
 To be the best, you must be able to handle the worst. Logging Zero Downtime Deployment A/B Testing Don't be afraid to give up the good to go for the great. Agile
 Quantum Computing Testing DNS Routing Success doesn’t just find you. You have to go out and get it. Pull Request Container Orchestration UX Optimization Framework Zero Downtime Deployment Blockchain Content Delivery Network Stay hungry, stay foolish. Don't be afraid to give up the good to go for the great. API Virtual Machines
+Lambda Functions Optimization Microservices Distributed Systems Latency Optimization
