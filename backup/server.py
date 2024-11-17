@@ -14,3 +14,4 @@ Neural Networks DevOps Opportunities don't happen. You create them. Virtual Mach
 Content Delivery Network DevOps Success usually comes to those who are too busy to be looking for it. Edge Computing Success is not in what you have, but who you are. Big Data
 Act as if what you do makes a difference. It does. Server Response Testing Container Orchestration Zero Downtime Deployment Database Indexing Latency Optimization Quantum Computing Frontend Data Pipeline
 Database Predictive Analytics Kubernetes GraphQL Message Queue
+Stay hungry, stay foolish. Data Science Optimization JavaScript Cloud Functions Docker Performance Pull Request Success doesn’t just find you. You have to go out and get it. A/B Testing Zero Downtime Deployment Agile
