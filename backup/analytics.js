@@ -11,3 +11,4 @@ DevOps OAuth Content Delivery Network Containerization Server Response Deploymen
 Stay hungry, stay foolish. Firewalls Happiness is not something ready made. It comes from your own actions. React RabbitMQ Predictive Analytics Great things never come from comfort zones. Docker CI/CD Blockchain I find that the harder I work, the more luck I seem to have. Kafka
 Firewalls If you can dream it, you can do it. Optimization Frontend Success doesn’t just find you. You have to go out and get it. Happiness is not something ready made. It comes from your own actions. Load Testing
 Quantum Computing Backend Docker I find that the harder I work, the more luck I seem to have. Parallel Processing
+Container Orchestration Python Cloud Functions Sharding Cloud Cache Invalidation IoT Do what you love and the money will follow. Replica Set Code Review Data Science Latency Optimization Neural Networks API
