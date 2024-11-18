@@ -10,3 +10,4 @@ Code Review Containerization DevOps Don't be afraid to give up the good to go fo
 Firewalls WebSockets Latency Optimization The only way to do great work is to love what you do. RabbitMQ Deployment DNS Routing Blockchain Sharding Lambda Functions Server Response Version Control DevOps
 Performance Stay hungry, stay foolish. Simplicity is the ultimate sophistication. Pull Request Data Pipeline Docker OAuth
 Cloud Functions Event-driven Architecture Database Indexing Success is how high you bounce when you hit bottom. Latency Optimization Replica Set Don't be afraid to give up the good to go for the great. Pull Request DNS Routing Do what you love and the money will follow. API Big Data To be the best, you must be able to handle the worst. Innovation distinguishes between a leader and a follower. Machine Learning
+Firewalls Scalability Success doesn’t just find you. You have to go out and get it. Load Balancing Data Pipeline Logging OAuth
