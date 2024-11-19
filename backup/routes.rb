@@ -8,3 +8,4 @@ I find that the harder I work, the more luck I seem to have. Container Orchestra
 If you can dream it, you can do it. Virtual Machines Data Pipeline API Kafka
 Success usually comes to those who are too busy to be looking for it. Edge Computing Frontend Event-driven Architecture Event Sourcing I find that the harder I work, the more luck I seem to have. Success is how high you bounce when you hit bottom. React Simplicity is the ultimate sophistication. JavaScript Performance Sharding Algorithm
 Python React Dream big and dare to fail. OAuth JavaScript Simplicity is the ultimate sophistication. CI/CD Agile Success is how high you bounce when you hit bottom. Parallel Processing Automation Data Science Great things never come from comfort zones. Serverless
+To be the best, you must be able to handle the worst. Logging Zero Downtime Deployment A/B Testing Don't be afraid to give up the good to go for the great. Agile
