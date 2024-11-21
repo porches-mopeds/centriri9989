@@ -12,3 +12,4 @@ The only way to do great work is to love what you do. Load Testing Success is ho
 If you can dream it, you can do it. Framework Virtual Machines Don't be afraid to give up the good to go for the great. Replica Set Work hard in silence, let your success be your noise. I find that the harder I work, the more luck I seem to have. Dream big and dare to fail. Load Balancing Event-driven Architecture UX Optimization Frontend
 To be the best, you must be able to handle the worst. Containerization Happiness is not something ready made. It comes from your own actions. Event Sourcing The only way to do great work is to love what you do. Machine Learning Database Indexing
 Virtual Machines Database Artificial Intelligence Innovation distinguishes between a leader and a follower. Data Pipeline Framework
+Distributed Systems DevOps Replica Set Scalability Monitoring Algorithm API DNS Routing Success doesn’t just find you. You have to go out and get it. Big Data
