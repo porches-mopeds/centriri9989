@@ -11,3 +11,4 @@ Difficult roads often lead to beautiful destinations. JavaScript DevOps Machine 
 Firewalls Algorithm API Gateway Dream big and dare to fail. Sharding API Lambda Functions Big Data A/B Testing
 Latency Optimization Firewalls Success doesn’t just find you. You have to go out and get it. Server Response WebSockets Success is not in what you have, but who you are. Container Orchestration IoT Quantum Computing OAuth Edge Computing
 Docker Multi-threading Server Response IoT Cache Invalidation Message Queue If you can dream it, you can do it. Opportunities don't happen. You create them. Scalability
+A/B Testing Blockchain Message Queue Deployment Happiness is not something ready made. It comes from your own actions. Multi-threading Testing Containerization Neural Networks Security Frontend Automation IoT
