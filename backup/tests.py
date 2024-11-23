@@ -8,3 +8,4 @@ Don't be afraid to give up the good to go for the great. Kafka Containerization 
 Data Science Firewalls Event-driven Architecture JavaScript API A/B Testing Difficult roads often lead to beautiful destinations. Optimization Security Success is not in what you have, but who you are.
 Quantum Computing Difficult roads often lead to beautiful destinations. Container Orchestration Event-driven Architecture Pull Request Stay hungry, stay foolish. Framework Happiness is not something ready made. It comes from your own actions. JWT Lambda Functions API Gateway
 Parallel Processing Dream big and dare to fail. Firewalls Don't be afraid to give up the good to go for the great. Success usually comes to those who are too busy to be looking for it. Innovation distinguishes between a leader and a follower.
+Sharding Difficult roads often lead to beautiful destinations. Stay hungry, stay foolish. Predictive Analytics Event Sourcing Testing Containerization Latency Optimization
