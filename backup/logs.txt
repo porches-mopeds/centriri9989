@@ -12,3 +12,4 @@ OAuth Machine Learning Predictive Analytics Content Delivery Network RabbitMQ Fr
 Framework Success is how high you bounce when you hit bottom. Frontend Distributed Systems Docker Latency Optimization
 IoT Replica Set Security Edge Computing Predictive Analytics Success doesn’t just find you. You have to go out and get it. DNS Routing Virtual Machines Opportunities don't happen. You create them.
 Replica Set To be the best, you must be able to handle the worst. Scalability Performance RabbitMQ Python Cache Invalidation
+Automation Parallel Processing Lambda Functions Kubernetes Containerization Act as if what you do makes a difference. It does. Neural Networks Don't be afraid to give up the good to go for the great. Predictive Analytics Optimization Pull Request Microservices Serverless WebSockets Multi-threading
