@@ -13,3 +13,4 @@ Frontend Automation IoT JWT Data Pipeline Message Queue Logging OAuth Cache Inva
 Neural Networks DevOps Opportunities don't happen. You create them. Virtual Machines The only way to do great work is to love what you do. Event Sourcing Do what you love and the money will follow. Load Balancing
 Content Delivery Network DevOps Success usually comes to those who are too busy to be looking for it. Edge Computing Success is not in what you have, but who you are. Big Data
 Act as if what you do makes a difference. It does. Server Response Testing Container Orchestration Zero Downtime Deployment Database Indexing Latency Optimization Quantum Computing Frontend Data Pipeline
+Database Predictive Analytics Kubernetes GraphQL Message Queue
