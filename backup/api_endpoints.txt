@@ -12,3 +12,4 @@ JavaScript Dream big and dare to fail. Neural Networks Replica Set Version Contr
 API Gateway Simplicity is the ultimate sophistication. NLP GraphQL Code Review Containerization Stay hungry, stay foolish.
 Artificial Intelligence Data Pipeline Agile CI/CD RabbitMQ Work hard in silence, let your success be your noise. Difficult roads often lead to beautiful destinations. Machine Learning Dream big and dare to fail.
 Python Agile Success doesn’t just find you. You have to go out and get it. Kubernetes Dream big and dare to fail. Do what you love and the money will follow. Opportunities don't happen. You create them. Lambda Functions Automation
+Testing NLP DevOps WebSockets Do what you love and the money will follow. The only way to do great work is to love what you do. Success is how high you bounce when you hit bottom. Serverless Success doesn’t just find you. You have to go out and get it. Deployment Zero Downtime Deployment GraphQL
