@@ -8,3 +8,4 @@ If you can dream it, you can do it. API React Opportunities don't happen. You cr
 Machine Learning Quantum Computing Agile DNS Routing Database Indexing Backend Success doesn’t just find you. You have to go out and get it. Docker
 Event-driven Architecture Virtual Machines Do what you love and the money will follow. Opportunities don't happen. You create them. Pull Request
 Version Control GraphQL Kafka Neural Networks Zero Downtime Deployment A/B Testing
+Zero Downtime Deployment Do what you love and the money will follow. Virtual Machines Multi-threading API Gateway I find that the harder I work, the more luck I seem to have. Server Response A/B Testing Code Review The only way to do great work is to love what you do. Framework Quantum Computing Scalability Predictive Analytics

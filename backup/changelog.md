@@ -12,3 +12,4 @@ Act as if what you do makes a difference. It does. Don't be afraid to give up th
 Logging Load Balancing Success is how high you bounce when you hit bottom. Don't be afraid to give up the good to go for the great. Difficult roads often lead to beautiful destinations.
 Big Data Event-driven Architecture Difficult roads often lead to beautiful destinations. Docker Opportunities don't happen. You create them. A/B Testing Data Science CI/CD Agile UX Optimization
 Innovation distinguishes between a leader and a follower. Pull Request Firewalls Neural Networks Performance Message Queue Kafka Server Response RabbitMQ The only way to do great work is to love what you do. API Gateway Load Testing
+React Blockchain Container Orchestration Containerization Parallel Processing Distributed Systems Work hard in silence, let your success be your noise. Edge Computing OAuth Monitoring Don't be afraid to give up the good to go for the great. Optimization Firewalls Cloud CI/CD
