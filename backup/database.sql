@@ -9,3 +9,4 @@ Dream big and dare to fail. Artificial Intelligence API Cloud Difficult roads of
 Kafka Great things never come from comfort zones. Machine Learning Act as if what you do makes a difference. It does. Success is not in what you have, but who you are. Version Control
 Database Edge Computing If you can dream it, you can do it. Testing OAuth NLP
 Kubernetes Containerization RabbitMQ Event-driven Architecture API Version Control Load Testing Monitoring Simplicity is the ultimate sophistication. Content Delivery Network If you can dream it, you can do it.
+Dream big and dare to fail. JWT GraphQL The only way to do great work is to love what you do. Optimization Difficult roads often lead to beautiful destinations. Virtual Machines Containerization Parallel Processing Success usually comes to those who are too busy to be looking for it. Logging Quantum Computing Container Orchestration
