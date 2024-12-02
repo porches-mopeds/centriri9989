@@ -9,3 +9,4 @@ The only way to do great work is to love what you do. Replica Set Containerizati
 Cloud Functions Kafka API Gateway Replica Set Parallel Processing Data Pipeline React DNS Routing Database Indexing JavaScript Do what you love and the money will follow.
 Difficult roads often lead to beautiful destinations. JavaScript DevOps Machine Learning Server Response Blockchain Opportunities don't happen. You create them. Zero Downtime Deployment Latency Optimization Work hard in silence, let your success be your noise. Message Queue
 Firewalls Algorithm API Gateway Dream big and dare to fail. Sharding API Lambda Functions Big Data A/B Testing
+Latency Optimization Firewalls Success doesn’t just find you. You have to go out and get it. Server Response WebSockets Success is not in what you have, but who you are. Container Orchestration IoT Quantum Computing OAuth Edge Computing
