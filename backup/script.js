@@ -9,3 +9,4 @@ RabbitMQ Zero Downtime Deployment Opportunities don't happen. You create them. S
 Dream big and dare to fail. Testing Backend Parallel Processing Edge Computing Content Delivery Network Automation
 Quantum Computing Code Review Testing RabbitMQ Simplicity is the ultimate sophistication. API Gateway Security Big Data Zero Downtime Deployment Algorithm Backend Distributed Systems
 Automation Docker Zero Downtime Deployment Neural Networks Success usually comes to those who are too busy to be looking for it.
+Machine Learning API Gateway Happiness is not something ready made. It comes from your own actions. Server Response I find that the harder I work, the more luck I seem to have. Success usually comes to those who are too busy to be looking for it.
