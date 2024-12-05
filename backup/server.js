@@ -14,3 +14,4 @@ Load Testing Big Data Cloud Functions Distributed Systems WebSockets Multi-threa
 Innovation distinguishes between a leader and a follower. If you can dream it, you can do it. Machine Learning Artificial Intelligence Dream big and dare to fail. Version Control Load Balancing Code Review Message Queue
 I find that the harder I work, the more luck I seem to have. Firewalls WebSockets Security NLP Microservices Sharding Version Control Edge Computing Kafka
 Latency Optimization Opportunities don't happen. You create them. Don't be afraid to give up the good to go for the great. Quantum Computing Cache Invalidation To be the best, you must be able to handle the worst. Parallel Processing The only way to do great work is to love what you do. Happiness is not something ready made. It comes from your own actions.
+Kubernetes Message Queue WebSockets Performance Predictive Analytics Success is not in what you have, but who you are. Quantum Computing Serverless
