@@ -3,3 +3,4 @@ Event Sourcing Success is not in what you have, but who you are. Sharding Big Da
 DevOps Automation Backend Success is not in what you have, but who you are. Do what you love and the money will follow.
 Neural Networks Kubernetes Innovation distinguishes between a leader and a follower. API Blockchain DNS Routing
 Data Pipeline Happiness is not something ready made. It comes from your own actions. Distributed Systems Security React Lambda Functions Machine Learning Serverless IoT Cloud Functions
+Work hard in silence, let your success be your noise. DNS Routing Framework Success usually comes to those who are too busy to be looking for it. Big Data
