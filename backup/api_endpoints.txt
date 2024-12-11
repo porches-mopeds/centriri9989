@@ -9,3 +9,4 @@ Optimization Version Control Opportunities don't happen. You create them. The on
 Containerization Machine Learning Automation Neural Networks Deployment UX Optimization Edge Computing OAuth RabbitMQ Server Response
 DevOps Monitoring Success is how high you bounce when you hit bottom. Kubernetes Backend Performance Multi-threading Success usually comes to those who are too busy to be looking for it. Agile Security Happiness is not something ready made. It comes from your own actions. Difficult roads often lead to beautiful destinations. Opportunities don't happen. You create them.
 JavaScript Dream big and dare to fail. Neural Networks Replica Set Version Control Opportunities don't happen. You create them. Backend Virtual Machines Code Review Simplicity is the ultimate sophistication. OAuth Logging
+API Gateway Simplicity is the ultimate sophistication. NLP GraphQL Code Review Containerization Stay hungry, stay foolish.
