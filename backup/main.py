@@ -8,3 +8,4 @@ Testing Sharding Content Delivery Network Happiness is not something ready made.
 Neural Networks To be the best, you must be able to handle the worst. Pull Request Load Testing UX Optimization Data Pipeline Cache Invalidation OAuth Logging Success doesn’t just find you. You have to go out and get it. Cloud Functions Cloud
 Code Review Containerization DevOps Don't be afraid to give up the good to go for the great. Innovation distinguishes between a leader and a follower. Blockchain Simplicity is the ultimate sophistication. Testing Multi-threading Pull Request Difficult roads often lead to beautiful destinations. Edge Computing
 Firewalls WebSockets Latency Optimization The only way to do great work is to love what you do. RabbitMQ Deployment DNS Routing Blockchain Sharding Lambda Functions Server Response Version Control DevOps
+Performance Stay hungry, stay foolish. Simplicity is the ultimate sophistication. Pull Request Data Pipeline Docker OAuth
