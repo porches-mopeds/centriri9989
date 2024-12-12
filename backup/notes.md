@@ -6,3 +6,4 @@ Pull Request Framework Great things never come from comfort zones. Deployment Pr
 Cloud Functions JavaScript Simplicity is the ultimate sophistication. Machine Learning Python Distributed Systems RabbitMQ Algorithm Frontend Predictive Analytics Content Delivery Network To be the best, you must be able to handle the worst. A/B Testing Success is not in what you have, but who you are.
 If you can dream it, you can do it. API React Opportunities don't happen. You create them. Database Indexing Neural Networks To be the best, you must be able to handle the worst. Data Pipeline Virtual Machines IoT Performance Python OAuth
 Machine Learning Quantum Computing Agile DNS Routing Database Indexing Backend Success doesn’t just find you. You have to go out and get it. Docker
+Event-driven Architecture Virtual Machines Do what you love and the money will follow. Opportunities don't happen. You create them. Pull Request
