@@ -12,3 +12,4 @@ Security Testing API Framework Message Queue Data Science Difficult roads often 
 Great things never come from comfort zones. JWT Happiness is not something ready made. It comes from your own actions. Pull Request Do what you love and the money will follow. Firewalls Version Control Blockchain Backend Multi-threading Python Big Data Database
 Load Testing Big Data Cloud Functions Distributed Systems WebSockets Multi-threading Content Delivery Network Security
 Innovation distinguishes between a leader and a follower. If you can dream it, you can do it. Machine Learning Artificial Intelligence Dream big and dare to fail. Version Control Load Balancing Code Review Message Queue
+I find that the harder I work, the more luck I seem to have. Firewalls WebSockets Security NLP Microservices Sharding Version Control Edge Computing Kafka
