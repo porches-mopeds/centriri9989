@@ -8,3 +8,4 @@ Neural Networks Success usually comes to those who are too busy to be looking fo
 Great things never come from comfort zones. Quantum Computing Latency Optimization Frontend Automation Microservices
 Latency Optimization JWT Performance Data Pipeline Database API Gateway A/B Testing DevOps Blockchain Code Review Difficult roads often lead to beautiful destinations. Edge Computing Data Science
 JavaScript Container Orchestration Lambda Functions UX Optimization Frontend Zero Downtime Deployment Cloud Virtual Machines Content Delivery Network Kubernetes Parallel Processing Security Optimization Data Science Database
+Database Indexing A/B Testing Code Review Backend API Success is not in what you have, but who you are. Blockchain RabbitMQ Predictive Analytics Automation Act as if what you do makes a difference. It does. Do what you love and the money will follow. JWT The only way to do great work is to love what you do. Data Science
