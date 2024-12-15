@@ -9,3 +9,4 @@ Cloud Functions Docker DNS Routing A/B Testing Performance Zero Downtime Deploym
 Version Control IoT JavaScript Event Sourcing Innovation distinguishes between a leader and a follower. Edge Computing Kubernetes Automation Lambda Functions The only way to do great work is to love what you do. Security Frontend
 Microservices DevOps Security Load Balancing Event-driven Architecture Machine Learning Parallel Processing IoT Cloud Functions
 Success is not in what you have, but who you are. Optimization Edge Computing Framework Replica Set Kafka DevOps I find that the harder I work, the more luck I seem to have. Work hard in silence, let your success be your noise.
+Frontend Automation IoT JWT Data Pipeline Message Queue Logging OAuth Cache Invalidation Innovation distinguishes between a leader and a follower. Neural Networks
