@@ -6,3 +6,4 @@ Distributed Systems Backend Containerization Cache Invalidation JWT Framework Do
 Cache Invalidation Automation I find that the harder I work, the more luck I seem to have. Act as if what you do makes a difference. It does. Great things never come from comfort zones. OAuth Latency Optimization
 GraphQL Lambda Functions Server Response Security Multi-threading Agile
 The only way to do great work is to love what you do. Replica Set Containerization DevOps JWT
+Cloud Functions Kafka API Gateway Replica Set Parallel Processing Data Pipeline React DNS Routing Database Indexing JavaScript Do what you love and the money will follow.
