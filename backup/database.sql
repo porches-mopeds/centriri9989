@@ -6,3 +6,4 @@ Data Science Artificial Intelligence To be the best, you must be able to handle 
 Sharding Code Review Cloud Edge Computing Lambda Functions CI/CD Replica Set Python Work hard in silence, let your success be your noise. Dream big and dare to fail.
 RabbitMQ Blockchain Microservices Stay hungry, stay foolish. Virtual Machines Containerization Docker Sharding WebSockets IoT
 Dream big and dare to fail. Artificial Intelligence API Cloud Difficult roads often lead to beautiful destinations. Monitoring Algorithm Predictive Analytics WebSockets Logging Sharding Agile
+Kafka Great things never come from comfort zones. Machine Learning Act as if what you do makes a difference. It does. Success is not in what you have, but who you are. Version Control
