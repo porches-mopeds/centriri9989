@@ -6,3 +6,4 @@ IoT Success usually comes to those who are too busy to be looking for it. Loggin
 Server Response DevOps IoT JavaScript Big Data GraphQL Version Control
 Microservices React Virtual Machines Version Control Optimization Data Pipeline
 DNS Routing Version Control Data Pipeline Backend Scalability Sharding Kafka Database Success is how high you bounce when you hit bottom. Server Response Message Queue Load Testing Event-driven Architecture Containerization
+I find that the harder I work, the more luck I seem to have. Version Control Great things never come from comfort zones. Neural Networks OAuth React UX Optimization Don't be afraid to give up the good to go for the great. Dream big and dare to fail.
