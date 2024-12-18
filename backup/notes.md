@@ -3,3 +3,4 @@ Neural Networks Happiness is not something ready made. It comes from your own ac
 Multi-threading API Gateway JWT Server Response Blockchain Testing Machine Learning API UX Optimization Monitoring Success is how high you bounce when you hit bottom. Lambda Functions
 Event-driven Architecture DevOps Load Testing Firewalls Event Sourcing
 Pull Request Framework Great things never come from comfort zones. Deployment Predictive Analytics Logging Machine Learning Automation NLP Success doesn’t just find you. You have to go out and get it. Testing A/B Testing
+Cloud Functions JavaScript Simplicity is the ultimate sophistication. Machine Learning Python Distributed Systems RabbitMQ Algorithm Frontend Predictive Analytics Content Delivery Network To be the best, you must be able to handle the worst. A/B Testing Success is not in what you have, but who you are.

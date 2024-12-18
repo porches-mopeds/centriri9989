@@ -7,3 +7,4 @@ UX Optimization Pull Request Serverless Lambda Functions Success is how high you
 Neural Networks Success usually comes to those who are too busy to be looking for it. Scalability Blockchain Content Delivery Network Database Indexing Distributed Systems Machine Learning Data Pipeline Firewalls Dream big and dare to fail. JavaScript API Gateway
 Great things never come from comfort zones. Quantum Computing Latency Optimization Frontend Automation Microservices
 Latency Optimization JWT Performance Data Pipeline Database API Gateway A/B Testing DevOps Blockchain Code Review Difficult roads often lead to beautiful destinations. Edge Computing Data Science
+JavaScript Container Orchestration Lambda Functions UX Optimization Frontend Zero Downtime Deployment Cloud Virtual Machines Content Delivery Network Kubernetes Parallel Processing Security Optimization Data Science Database
