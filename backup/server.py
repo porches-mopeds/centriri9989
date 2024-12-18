@@ -8,3 +8,4 @@ Cloud Frontend Data Pipeline Serverless Event Sourcing Backend Microservices Suc
 Cloud Functions Docker DNS Routing A/B Testing Performance Zero Downtime Deployment If you can dream it, you can do it. RabbitMQ Cloud Load Balancing
 Version Control IoT JavaScript Event Sourcing Innovation distinguishes between a leader and a follower. Edge Computing Kubernetes Automation Lambda Functions The only way to do great work is to love what you do. Security Frontend
 Microservices DevOps Security Load Balancing Event-driven Architecture Machine Learning Parallel Processing IoT Cloud Functions
+Success is not in what you have, but who you are. Optimization Edge Computing Framework Replica Set Kafka DevOps I find that the harder I work, the more luck I seem to have. Work hard in silence, let your success be your noise.

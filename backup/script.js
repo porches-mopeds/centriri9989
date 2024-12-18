@@ -8,3 +8,4 @@ Success is not in what you have, but who you are. Kubernetes Don't be afraid to 
 RabbitMQ Zero Downtime Deployment Opportunities don't happen. You create them. Server Response Distributed Systems To be the best, you must be able to handle the worst. Quantum Computing A/B Testing
 Dream big and dare to fail. Testing Backend Parallel Processing Edge Computing Content Delivery Network Automation
 Quantum Computing Code Review Testing RabbitMQ Simplicity is the ultimate sophistication. API Gateway Security Big Data Zero Downtime Deployment Algorithm Backend Distributed Systems
+Automation Docker Zero Downtime Deployment Neural Networks Success usually comes to those who are too busy to be looking for it.
