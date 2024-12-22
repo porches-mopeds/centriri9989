@@ -10,3 +10,4 @@ Optimization If you can dream it, you can do it. API Gateway Microservices Perfo
 Quantum Computing Do what you love and the money will follow. DNS Routing Neural Networks Load Testing Act as if what you do makes a difference. It does.
 Security Testing API Framework Message Queue Data Science Difficult roads often lead to beautiful destinations. Monitoring Cloud Functions Artificial Intelligence RabbitMQ Predictive Analytics GraphQL React The only way to do great work is to love what you do.
 Great things never come from comfort zones. JWT Happiness is not something ready made. It comes from your own actions. Pull Request Do what you love and the money will follow. Firewalls Version Control Blockchain Backend Multi-threading Python Big Data Database
+Load Testing Big Data Cloud Functions Distributed Systems WebSockets Multi-threading Content Delivery Network Security
