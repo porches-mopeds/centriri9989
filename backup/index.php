@@ -6,3 +6,4 @@ Edge Computing Sharding DNS Routing Big Data Security API Gateway Testing Lambda
 Big Data Great things never come from comfort zones. Quantum Computing CI/CD Performance A/B Testing Frontend Zero Downtime Deployment Scalability Parallel Processing Database Indexing Firewalls
 React Event-driven Architecture JavaScript OAuth Latency Optimization Virtual Machines API Great things never come from comfort zones. Machine Learning Success is how high you bounce when you hit bottom.
 Success usually comes to those who are too busy to be looking for it. Multi-threading Framework Don't be afraid to give up the good to go for the great. RabbitMQ Event-driven Architecture Code Review Machine Learning DevOps Simplicity is the ultimate sophistication. Zero Downtime Deployment
+Neural Networks Deployment Latency Optimization JavaScript Zero Downtime Deployment Pull Request Cache Invalidation Act as if what you do makes a difference. It does. Edge Computing
