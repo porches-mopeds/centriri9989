@@ -7,3 +7,4 @@ IoT Docker Framework A/B Testing JWT Replica Set OAuth RabbitMQ
 Success is not in what you have, but who you are. Kubernetes Don't be afraid to give up the good to go for the great. Docker I find that the harder I work, the more luck I seem to have. Testing Performance Algorithm Pull Request Opportunities don't happen. You create them. Simplicity is the ultimate sophistication. API Gateway Code Review
 RabbitMQ Zero Downtime Deployment Opportunities don't happen. You create them. Server Response Distributed Systems To be the best, you must be able to handle the worst. Quantum Computing A/B Testing
 Dream big and dare to fail. Testing Backend Parallel Processing Edge Computing Content Delivery Network Automation
+Quantum Computing Code Review Testing RabbitMQ Simplicity is the ultimate sophistication. API Gateway Security Big Data Zero Downtime Deployment Algorithm Backend Distributed Systems
