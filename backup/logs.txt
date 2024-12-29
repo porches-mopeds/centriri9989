@@ -7,3 +7,4 @@ DNS Routing Neural Networks Do what you love and the money will follow. Artifici
 Automation Happiness is not something ready made. It comes from your own actions. WebSockets Artificial Intelligence IoT Algorithm Multi-threading
 Innovation distinguishes between a leader and a follower. Work hard in silence, let your success be your noise. DevOps Don't be afraid to give up the good to go for the great. IoT Data Pipeline Act as if what you do makes a difference. It does. Opportunities don't happen. You create them. Load Testing Serverless React Optimization Data Science
 Backend Kafka Do what you love and the money will follow. Quantum Computing RabbitMQ Containerization Multi-threading Big Data Data Science Code Review Version Control Success doesn’t just find you. You have to go out and get it.
+Stay hungry, stay foolish. Replica Set Serverless Framework GraphQL Neural Networks Cache Invalidation Agile Act as if what you do makes a difference. It does.
