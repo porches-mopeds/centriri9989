@@ -8,3 +8,4 @@ Neural Networks Logging Success is how high you bounce when you hit bottom. Act 
 Act as if what you do makes a difference. It does. Data Pipeline Artificial Intelligence Performance Dream big and dare to fail.
 Optimization If you can dream it, you can do it. API Gateway Microservices Performance Agile Dream big and dare to fail. Parallel Processing
 Quantum Computing Do what you love and the money will follow. DNS Routing Neural Networks Load Testing Act as if what you do makes a difference. It does.
+Security Testing API Framework Message Queue Data Science Difficult roads often lead to beautiful destinations. Monitoring Cloud Functions Artificial Intelligence RabbitMQ Predictive Analytics GraphQL React The only way to do great work is to love what you do.

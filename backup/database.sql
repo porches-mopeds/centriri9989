@@ -5,3 +5,4 @@ Difficult roads often lead to beautiful destinations. Load Testing Success doesn
 Data Science Artificial Intelligence To be the best, you must be able to handle the worst. Optimization Event-driven Architecture
 Sharding Code Review Cloud Edge Computing Lambda Functions CI/CD Replica Set Python Work hard in silence, let your success be your noise. Dream big and dare to fail.
 RabbitMQ Blockchain Microservices Stay hungry, stay foolish. Virtual Machines Containerization Docker Sharding WebSockets IoT
+Dream big and dare to fail. Artificial Intelligence API Cloud Difficult roads often lead to beautiful destinations. Monitoring Algorithm Predictive Analytics WebSockets Logging Sharding Agile
