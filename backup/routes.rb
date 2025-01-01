@@ -1,3 +1,4 @@
 Great things never come from comfort zones. Machine Learning React Load Testing Agile Code Review
 Opportunities don't happen. You create them. Multi-threading Cache Invalidation Optimization Blockchain NLP Event-driven Architecture Message Queue Event Sourcing Replica Set Container Orchestration Work hard in silence, let your success be your noise.
 Load Testing Content Delivery Network Dream big and dare to fail. Message Queue Backend Machine Learning The only way to do great work is to love what you do. Cache Invalidation OAuth Don't be afraid to give up the good to go for the great. Kubernetes Cloud
+Blockchain Frontend Innovation distinguishes between a leader and a follower. Big Data Database Serverless Code Review Server Response Kafka Framework JavaScript Success usually comes to those who are too busy to be looking for it. Data Pipeline

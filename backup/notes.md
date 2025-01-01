@@ -2,3 +2,4 @@ Kubernetes Don't be afraid to give up the good to go for the great. Algorithm AP
 Neural Networks Happiness is not something ready made. It comes from your own actions. Opportunities don't happen. You create them. Success is not in what you have, but who you are. Edge Computing CI/CD Multi-threading Success doesn’t just find you. You have to go out and get it. Version Control If you can dream it, you can do it. Big Data Lambda Functions Containerization Automation Algorithm
 Multi-threading API Gateway JWT Server Response Blockchain Testing Machine Learning API UX Optimization Monitoring Success is how high you bounce when you hit bottom. Lambda Functions
 Event-driven Architecture DevOps Load Testing Firewalls Event Sourcing
+Pull Request Framework Great things never come from comfort zones. Deployment Predictive Analytics Logging Machine Learning Automation NLP Success doesn’t just find you. You have to go out and get it. Testing A/B Testing
