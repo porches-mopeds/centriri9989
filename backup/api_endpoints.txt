@@ -5,3 +5,4 @@ OAuth Opportunities don't happen. You create them. Success is how high you bounc
 A/B Testing RabbitMQ If you can dream it, you can do it. Docker Algorithm Edge Computing JavaScript
 Artificial Intelligence Frontend Deployment Backend Scalability Predictive Analytics API Quantum Computing Success is how high you bounce when you hit bottom. Blockchain Serverless
 CI/CD DNS Routing Security Virtual Machines Success is not in what you have, but who you are. Artificial Intelligence Agile Scalability Frontend Edge Computing Opportunities don't happen. You create them. Python Database
+Optimization Version Control Opportunities don't happen. You create them. The only way to do great work is to love what you do. Data Pipeline Zero Downtime Deployment Kubernetes Lambda Functions Quantum Computing Automation Database Container Orchestration Docker Blockchain Neural Networks
