@@ -4,3 +4,4 @@ DevOps JavaScript Serverless Agile Deployment Distributed Systems Firewalls Dock
 OAuth Opportunities don't happen. You create them. Success is how high you bounce when you hit bottom. Great things never come from comfort zones. Automation Dream big and dare to fail. Cloud
 A/B Testing RabbitMQ If you can dream it, you can do it. Docker Algorithm Edge Computing JavaScript
 Artificial Intelligence Frontend Deployment Backend Scalability Predictive Analytics API Quantum Computing Success is how high you bounce when you hit bottom. Blockchain Serverless
+CI/CD DNS Routing Security Virtual Machines Success is not in what you have, but who you are. Artificial Intelligence Agile Scalability Frontend Edge Computing Opportunities don't happen. You create them. Python Database
