@@ -3,3 +3,4 @@ Backend Event-driven Architecture The only way to do great work is to love what 
 DevOps JavaScript Serverless Agile Deployment Distributed Systems Firewalls Docker Success usually comes to those who are too busy to be looking for it. Load Testing Stay hungry, stay foolish. Data Science Cache Invalidation
 OAuth Opportunities don't happen. You create them. Success is how high you bounce when you hit bottom. Great things never come from comfort zones. Automation Dream big and dare to fail. Cloud
 A/B Testing RabbitMQ If you can dream it, you can do it. Docker Algorithm Edge Computing JavaScript
+Artificial Intelligence Frontend Deployment Backend Scalability Predictive Analytics API Quantum Computing Success is how high you bounce when you hit bottom. Blockchain Serverless
