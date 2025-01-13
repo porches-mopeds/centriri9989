@@ -4,3 +4,4 @@ DNS Routing Event Sourcing Database Indexing Difficult roads often lead to beaut
 NLP Testing Server Response Predictive Analytics Big Data Docker Code Review Lambda Functions Latency Optimization
 Cloud To be the best, you must be able to handle the worst. Version Control Predictive Analytics Sharding Happiness is not something ready made. It comes from your own actions. Success doesn’t just find you. You have to go out and get it. Success usually comes to those who are too busy to be looking for it. Code Review Monitoring Load Testing CI/CD GraphQL
 Stay hungry, stay foolish. Logging WebSockets Agile Load Testing Monitoring Success is how high you bounce when you hit bottom. Cloud Functions Multi-threading Latency Optimization Content Delivery Network
+Cloud React GraphQL DevOps Cache Invalidation Parallel Processing
