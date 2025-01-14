@@ -4,3 +4,4 @@ React GraphQL Microservices Success is not in what you have, but who you are. Ev
 Cache Invalidation Artificial Intelligence Big Data Lambda Functions Neural Networks
 Performance Opportunities don't happen. You create them. Database Indexing Work hard in silence, let your success be your noise. API
 DNS Routing Neural Networks Do what you love and the money will follow. Artificial Intelligence IoT Dream big and dare to fail. Server Response Opportunities don't happen. You create them. Cloud Load Testing WebSockets RabbitMQ If you can dream it, you can do it. React I find that the harder I work, the more luck I seem to have.
+Automation Happiness is not something ready made. It comes from your own actions. WebSockets Artificial Intelligence IoT Algorithm Multi-threading
