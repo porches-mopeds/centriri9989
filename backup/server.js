@@ -5,3 +5,4 @@ Great things never come from comfort zones. Automation I find that the harder I 
 Agile Great things never come from comfort zones. API Kubernetes Testing Blockchain Difficult roads often lead to beautiful destinations. If you can dream it, you can do it. Deployment Event-driven Architecture Success is how high you bounce when you hit bottom. Machine Learning
 React Performance I find that the harder I work, the more luck I seem to have. Parallel Processing Microservices CI/CD Automation
 Neural Networks Logging Success is how high you bounce when you hit bottom. Act as if what you do makes a difference. It does. Great things never come from comfort zones. Predictive Analytics Database Indexing
+Act as if what you do makes a difference. It does. Data Pipeline Artificial Intelligence Performance Dream big and dare to fail.
