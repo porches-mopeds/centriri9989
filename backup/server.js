@@ -4,3 +4,4 @@ Neural Networks Quantum Computing Stay hungry, stay foolish. CI/CD Multi-threadi
 Great things never come from comfort zones. Automation I find that the harder I work, the more luck I seem to have. Algorithm Don't be afraid to give up the good to go for the great. Microservices Virtual Machines DevOps
 Agile Great things never come from comfort zones. API Kubernetes Testing Blockchain Difficult roads often lead to beautiful destinations. If you can dream it, you can do it. Deployment Event-driven Architecture Success is how high you bounce when you hit bottom. Machine Learning
 React Performance I find that the harder I work, the more luck I seem to have. Parallel Processing Microservices CI/CD Automation
+Neural Networks Logging Success is how high you bounce when you hit bottom. Act as if what you do makes a difference. It does. Great things never come from comfort zones. Predictive Analytics Database Indexing
