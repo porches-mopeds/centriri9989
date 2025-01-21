@@ -3,3 +3,4 @@ Replica Set Load Balancing IoT Containerization Happiness is not something ready
 React GraphQL Microservices Success is not in what you have, but who you are. Event Sourcing Scalability Code Review Automation Cloud Functions
 Cache Invalidation Artificial Intelligence Big Data Lambda Functions Neural Networks
 Performance Opportunities don't happen. You create them. Database Indexing Work hard in silence, let your success be your noise. API
+DNS Routing Neural Networks Do what you love and the money will follow. Artificial Intelligence IoT Dream big and dare to fail. Server Response Opportunities don't happen. You create them. Cloud Load Testing WebSockets RabbitMQ If you can dream it, you can do it. React I find that the harder I work, the more luck I seem to have.
