@@ -1,3 +1,4 @@
 Predictive Analytics Firewalls OAuth Act as if what you do makes a difference. It does. Load Balancing Difficult roads often lead to beautiful destinations. Version Control Happiness is not something ready made. It comes from your own actions.
 Blockchain Lambda Functions Container Orchestration Opportunities don't happen. You create them. Security RabbitMQ Virtual Machines
 Neural Networks Quantum Computing Stay hungry, stay foolish. CI/CD Multi-threading
+Great things never come from comfort zones. Automation I find that the harder I work, the more luck I seem to have. Algorithm Don't be afraid to give up the good to go for the great. Microservices Virtual Machines DevOps
