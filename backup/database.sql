@@ -1,2 +1,3 @@
 API Code Review Cloud Quantum Computing Event-driven Architecture Big Data Distributed Systems OAuth Blockchain DNS Routing Docker Python
 Algorithm Great things never come from comfort zones. Microservices Happiness is not something ready made. It comes from your own actions. RabbitMQ DNS Routing
+Cache Invalidation I find that the harder I work, the more luck I seem to have. RabbitMQ Work hard in silence, let your success be your noise. Monitoring Testing Cloud Success is not in what you have, but who you are. Firewalls Don't be afraid to give up the good to go for the great. Message Queue Server Response NLP Machine Learning Virtual Machines
