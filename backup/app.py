@@ -1,0 +1,1 @@
+OAuth Success is not in what you have, but who you are. To be the best, you must be able to handle the worst. Virtual Machines Success usually comes to those who are too busy to be looking for it. Database Indexing Load Balancing Zero Downtime Deployment Frontend Event Sourcing Load Testing Container Orchestration
