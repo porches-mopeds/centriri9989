@@ -1,0 +1,1 @@
+Kubernetes Don't be afraid to give up the good to go for the great. Algorithm API Gateway Predictive Analytics Cloud UX Optimization Success is how high you bounce when you hit bottom. Database Version Control Parallel Processing Scalability Frontend Automation Content Delivery Network
