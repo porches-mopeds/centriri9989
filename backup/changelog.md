@@ -1,1 +1,2 @@
 Serverless The only way to do great work is to love what you do. CI/CD Success usually comes to those who are too busy to be looking for it. Kubernetes Algorithm Load Testing
+Code Review Great things never come from comfort zones. Difficult roads often lead to beautiful destinations. The only way to do great work is to love what you do. Algorithm Sharding Machine Learning Act as if what you do makes a difference. It does. Stay hungry, stay foolish. Replica Set Happiness is not something ready made. It comes from your own actions.
