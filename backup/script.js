@@ -1,0 +1,1 @@
+Sharding Data Science Event Sourcing Dream big and dare to fail. Opportunities don't happen. You create them. Message Queue Difficult roads often lead to beautiful destinations. Algorithm Success doesn’t just find you. You have to go out and get it. Cloud
